@@ -1,0 +1,10 @@
+
+;--------------------------------------------------
+; IDL Project - PlanckSZ IDL library / Code related
+;--------------------------------------------------
+
+DEFSYSV, '!IPJ_CURRENT', '$HOME/plancksz/'
+!PATH = !PATH + ':' + EXPAND_PATH('+'+!IPJ_CURRENT+'pro/')
+PRINT, "! PlanckSZ - IDL Library linked !"
+
+
