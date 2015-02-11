@@ -5,14 +5,9 @@ This toolkit is hosted at https://github.com/bbertinc/PSZToolkit . It is being d
 
 ## Summary
 
-This toolkit contains a set of functions and procedures which aims at helping cosmologists exploit the Planck SZ database.
+This toolkit contains a set of functions and procedures which aims at helping cosmologists exploit the Planck SZ database. The toolkit is provided both in IDL and Python for convenience. All functionalities are reproduced in each language.
 
-## Starting a session
+## IDL Distribution
 
-## Loading a catalog
 
-## Estimating SZ properties
-
-## Displaying SZ candidates and results
-
-## Saving results
+## Python Distribution
